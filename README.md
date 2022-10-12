@@ -132,6 +132,8 @@ foreground mouse to host OS - `Ctrl_L+Alt_L`
 show toolbar in fullscreen mode - `Ctrl_L+Alt_L+f`
 
 
+## Links
 
+* https://kevinlocke.name/bits/2021/12/10/windows-11-guest-virtio-libvirt/
 
 
